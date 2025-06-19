@@ -74,7 +74,7 @@ If you want to run this test (and poccibly hook up different sensors and actuato
 Now we are going to add and test each individual sensor and actuator. 
 
 * the [Micro Servo](https://wiki.seeedstudio.com/Grove-Servo/) using [servo-test.ino](./servo-test/servo-test.ino) and [ESP32Servo Library](https://github.com/madhephaestus/ESP32Servo)
-* the [Chainable LED](https://wiki.seeedstudio.com/Grove-Chainable_RGB_LED/) using [this example](./ChainLED-example/ChainLED-example/ainLED-example.ino) and [its library](https://github.com/pjpmarques/ChainableLED/)
+* the [Chainable LED](https://wiki.seeedstudio.com/Grove-Chainable_RGB_LED/) using [this example](./ChainLED-example/ChainLED-example/ChainLED-example.ino) and [its library](https://github.com/pjpmarques/ChainableLED/)
 * the [Grove DHT20](https://wiki.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DH20/) using the [traditional Library from Seeed](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor) and [this code](./DHTtester/DHTtester.ino)
 
 Lets test: both devices are in "longFast" and see each other. 
