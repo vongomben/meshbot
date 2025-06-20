@@ -4,6 +4,7 @@ Control **almost anything** with Meshtastic
 ![serial](./data/meshbot-logo.png)
 
 The basic idea of this project is to create a small bot capable of **field operations**, or even a very simple **BBS** (Bulletin board system) based on microntrollers.
+This project is featured as a tutorial on [hackster](https://www.hackster.io/vongomben/meshbot-control-almost-anything-with-meshtastic-6887b6).
 
 ## What we need:
 * a meshtastic radio (I am using a [XIAO ESP32S3 & Wio-SX1262 Kit for Meshtastic & LoRa](https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html?)
